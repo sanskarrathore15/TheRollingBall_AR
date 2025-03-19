@@ -7,8 +7,6 @@ https://github.com/user-attachments/assets/d6c1ce8f-daa1-438f-aa47-c1318296a7b6
 
 
 
-
-
 ## 🎮 About the Game
 TheRollingBall is an **augmented reality (AR) puzzle game** where players navigate a rolling ball on a 3D virtual cube. The cube has multiple platforms, obstacles, and moving slabs. Players must rotate the cube in real time to guide the ball through different challenges and reach the final goal.
 
